@@ -1,4 +1,8 @@
 I'm learning Git!!
 
 This is a change in f2
+<<<<<<< HEAD
 Welcome to world
+=======
+Hell o world;;
+>>>>>>> 44dd6fc248878f54e4fb480fc9f425ba95e4db15
